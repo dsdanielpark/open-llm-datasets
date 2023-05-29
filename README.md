@@ -349,7 +349,7 @@ https://huggingface.co/datasets
 - [Gutenberg project](https://www.gutenberg.org/policy/robot_access.html)
 - [CLUECorpus](https://github.com/CLUEbenchmark/CLUE)
 
-## Domain-specific datasets and Private dataset
+## Domain-specific datasets and Private datasets
 
 - [ChatGPT-Jailbreak-Prompts](https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts)
 - [awesome-chinese-legal-resources](https://github.com/pengxiao-song/awesome-chinese-legal-resources)
