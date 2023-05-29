@@ -5,8 +5,20 @@
 Repository for organizing datasets used in Open LLM. To download or access information about the most commonly used datasets, please refer to Hugging Face.
 https://huggingface.co/datasets
 
+<br>
+
+# References
+ [1] https://github.com/KennethanCeyer/awesome-llm <br>
+ [2] https://github.com/Hannibal046/Awesome-LLM <br>
+ [3] https://github.com/Zjh-819/LLMDataHub <br>
+ [4] https://huggingface.co/datasets <br>
+
+
+<br>
+
 # Contetns
 - [Open-LLM-datasets](#open-llm-datasets)
+- [References](#references)
 - [Contetns](#contetns)
 - [Papers](#papers)
   - [Pre-trained LLM](#pre-trained-llm)
@@ -24,7 +36,6 @@ https://huggingface.co/datasets
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
   - [Domain-specific Datasets and Private dataset](#domain-specific-datasets-and-private-dataset)
   - [Potential Overlaps](#potential-overlaps)
-- [References](#references)
 
 
 # Papers
@@ -365,8 +376,3 @@ https://huggingface.co/datasets
 
 <br>
 
-# References
-- [1] https://github.com/KennethanCeyer/awesome-llm
-- [2] https://github.com/Hannibal046/Awesome-LLM
-- [3] https://github.com/Zjh-819/LLMDataHub
-- [4] https://huggingface.co/datasets
