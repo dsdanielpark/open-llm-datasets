@@ -271,7 +271,7 @@ https://huggingface.co/datasets
 - [Awesome GPT-3](https://github.com/elyase/awesome-gpt3)
 - [Awesome LLM Human Preference Datasets](https://github.com/PolisAI/awesome-llm-human-preference-datasets)
 - [RWKV-howto](https://github.com/Hannibal046/RWKV-howto)
-- [Amazing-Bard-Prompts](https://github.com/dsdanielpark/amazing-bard-prompts)
+- *[Amazing-Bard-Prompts](https://github.com/dsdanielpark/amazing-bard-prompts)*
 
 ## Other Useful Resources
 
