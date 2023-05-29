@@ -201,6 +201,7 @@ https://huggingface.co/datasets
 - [BMTrain](https://github.com/OpenBMB/BMTrain)
 - [Mesh TensorFlow `(mtf)`](https://github.com/tensorflow/mesh)
 - [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 
 
