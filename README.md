@@ -8,10 +8,10 @@ https://huggingface.co/datasets
 <br>
 
 # References
- [1] https://github.com/KennethanCeyer/awesome-llm <br>
- [2] https://github.com/Hannibal046/Awesome-LLM <br>
- [3] https://github.com/Zjh-819/LLMDataHub <br>
- [4] https://huggingface.co/datasets <br>
+[1] https://github.com/KennethanCeyer/awesome-llm <br>
+[2] https://github.com/Hannibal046/Awesome-LLM <br>
+[3] https://github.com/Zjh-819/LLMDataHub <br>
+[4] https://huggingface.co/datasets <br>
 
 
 <br>
@@ -104,7 +104,6 @@ https://huggingface.co/datasets
 - LLaMA: [ckpt](https://github.com/facebookresearch/llama), [Paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/), [Non-commercial bespoke license](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)
 - GPT-NeoX: [ckpt](https://github.com/EleutherAI/gpt-neox), [Paper](https://arxiv.org/pdf/2204.06745.pdf), [Apache 2.0 License](https://github.com/EleutherAI/gpt-neox/blob/main/LICENSE)
 - UL2: [ckpt](https://huggingface.co/google/ul2), [Paper](https://arxiv.org/pdf/2205.05131v1.pdf), [Apache 2.0 License](https://huggingface.co/google/ul2)
-- 鹏程.盘古α: [ckpt](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α#模型下载), [Paper](https://arxiv.org/pdf/2104.12369.pdf), [Apache 2.0 License](https://github.com/huawei-noah/Pretrained-Language-Model/blob/4624dbadfe00e871789b509fe10232c77086d1de/PanGu-%CE%B1/LICENSE)
 - T5: [ckpt](https://huggingface.co/t5-11b), [Paper](https://jmlr.org/papers/v21/20-074.html), [Apache 2.0 License](https://huggingface.co/t5-11b)
 - CPM-Bee: [api](https://live.openbmb.org/models/bee), [Paper](https://arxiv.org/pdf/2012.00413.pdf)
 - rwkv-4: [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b), [Github](https://github.com/BlinkDL/RWKV-LM), [Apache 2.0 License](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)
