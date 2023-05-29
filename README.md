@@ -36,6 +36,7 @@ https://huggingface.co/datasets
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
   - [Domain-specific Datasets and Private dataset](#domain-specific-datasets-and-private-dataset)
   - [Potential Overlaps](#potential-overlaps)
+  - [Contribute](#contribute)
 
 
 # Papers
@@ -376,3 +377,5 @@ https://huggingface.co/datasets
 
 <br>
 
+## Contribute
+Anyone can add new links and organize them in a more visually appealing manner. This repository allows contributions of any kind.
