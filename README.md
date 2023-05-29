@@ -35,7 +35,7 @@ https://huggingface.co/datasets
   - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
   - [Domain-specific Datasets and Private dataset](#domain-specific-datasets-and-private-dataset)
-  - [Potential Overlaps](#potential-overlaps)
+  - [Potential Overlap](#potential-overlap)
   - [Contribute](#contribute)
 
 
@@ -188,28 +188,28 @@ https://huggingface.co/datasets
 
 
 ## LLM Training Frameworks
-1. [Serving OPT-175B, BLOOM-176B and CodeGen-16B using Alpa](https://alpa.ai/tutorials/opt_serving.html)
-2. [Alpa](https://github.com/alpa-projects/alpa)
-3. [Megatron-LM GPT2 tutorial](https://www.deepspeed.ai/tutorials/megatron/)
-4. [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
-5. [pretrain_gpt3_175B.sh](https://github.com/NVIDIA/Megatron-LM/blob/main/examples/pretrain_gpt3_175B.sh)
-6. [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
-7. [deepspeed.ai](https://www.deepspeed.ai)
-8. [Github repo](https://github.com/microsoft/DeepSpeed)
-9. [Colossal-AI](https://colossalai.org)
-10. [Open source solution replicates ChatGPT training process! Ready to go with only 1.6GB GPU memory and gives you 7.73 times faster training!](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
-11. [BMTrain](https://github.com/OpenBMB/BMTrain)
-12. [Mesh TensorFlow `(mtf)`](https://github.com/tensorflow/mesh)
-13. [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html)
+- [Serving OPT-175B, BLOOM-176B and CodeGen-16B using Alpa](https://alpa.ai/tutorials/opt_serving.html)
+- [Alpa](https://github.com/alpa-projects/alpa)
+- [Megatron-LM GPT2 tutorial](https://www.deepspeed.ai/tutorials/megatron/)
+- [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
+- [pretrain_gpt3_175B.sh](https://github.com/NVIDIA/Megatron-LM/blob/main/examples/pretrain_gpt3_175B.sh)
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+- [deepspeed.ai](https://www.deepspeed.ai)
+- [Github repo](https://github.com/microsoft/DeepSpeed)
+- [Colossal-AI](https://colossalai.org)
+- [Open source solution replicates ChatGPT training process! Ready to go with only 1.6GB GPU memory and gives you 7.73 times faster training!](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+- [BMTrain](https://github.com/OpenBMB/BMTrain)
+- [Mesh TensorFlow `(mtf)`](https://github.com/tensorflow/mesh)
+- [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html)
 
 
 
 ## Tools for deploying LLM
 
-1. [Haystack](https://haystack.deepset.ai/)
-2. [Sidekick](https://github.com/ai-sidekick/sidekick)
-3. [LangChain](https://github.com/hwchase17/langchain)
-4. [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+- [Haystack](https://haystack.deepset.ai/)
+- [Sidekick](https://github.com/ai-sidekick/sidekick)
+- [LangChain](https://github.com/hwchase17/langchain)
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 
 
 ## Tutorials about LLM
@@ -363,16 +363,16 @@ https://huggingface.co/datasets
 
 
 
-## Potential Overlaps 
-|                   | OIG     | hh-rlhf  | xP3     | natural instruct | AlpacaDataCleaned | GPT-4-LLM | Alpaca-CoT |
-|-------------------|---------|----------|---------|------------------|-------------------|-----------|------------|
-| OIG               | -       | contains | overlap | overlap          | overlap           |           | overlap    |
-| hh-rlhf           | part of | -        |         |                  |                   |           | overlap    |
-| xP3               | overlap |          | -       | overlap          |                   |           | overlap    |
-| natural instruct  | overlap |          | overlap | -                |                   |           | overlap    |
-| AlpacaDataCleaned | overlap |          |         |                  | -                 | overlap   | overlap    |
-| GPT-4-LLM         |         |          |         |                  | overlap           | -         | overlap    |
-| Alpaca-CoT        | overlap | overlap  | overlap | overlap          | overlap           | overlap   | -         |
+## Potential Overlap
+|                   | OIG     | hh-rlhf  | xP3     | Natural instruct | AlpacaDataCleaned | GPT-4-LLM | Alpaca-CoT |
+|-------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| OIG               | -       | Contains | Overlap | Overlap          | Overlap           |           | Overlap    |
+| hh-rlhf           | Part of | -        |         |                  |                   |           | Overlap    |
+| xP3               | Overlap |          | -       | Overlap          |                   |           | Overlap    |
+| Natural instruct  | Overlap |          | Overlap | -                |                   |           | Overlap    |
+| AlpacaDataCleaned | Overlap |          |         |                  | -                 | Overlap   | Overlap    |
+| GPT-4-LLM         |         |          |         |                  | Overlap           | -         | Overlap    |
+| Alpaca-CoT        | Overlap | Overlap  | Overlap | Overlap          | Overlap           | Overlap   | -         |
 
 
 <br>
