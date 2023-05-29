@@ -8,10 +8,10 @@ https://huggingface.co/datasets
 <br>
 
 # References
-[1] https://github.com/KennethanCeyer/awesome-llm <br>
-[2] https://github.com/Hannibal046/Awesome-LLM <br>
-[3] https://github.com/Zjh-819/LLMDataHub <br>
-[4] https://huggingface.co/datasets <br>
+[1]https://github.com/KennethanCeyer/awesome-llm <br>
+[2]https://github.com/Hannibal046/Awesome-LLM <br>
+[3]https://github.com/Zjh-819/LLMDataHub <br>
+[4]https://huggingface.co/datasets <br>
 
 
 <br>
