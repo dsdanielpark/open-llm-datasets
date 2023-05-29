@@ -16,10 +16,10 @@ https://huggingface.co/datasets
 
 <br>
 
-# Contetns
+# Contents
 - [Open-LLM-datasets](#open-llm-datasets)
 - [References](#references)
-- [Contetns](#contetns)
+- [Contents](#contents)
 - [Papers](#papers)
   - [Pre-trained LLM](#pre-trained-llm)
   - [Instruction finetuned LLM](#instruction-finetuned-llm)
