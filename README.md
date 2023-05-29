@@ -201,7 +201,7 @@ https://huggingface.co/datasets
 - [BMTrain](https://github.com/OpenBMB/BMTrain)
 - [Mesh TensorFlow `(mtf)`](https://github.com/tensorflow/mesh)
 - [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+
 
 
 
@@ -211,6 +211,7 @@ https://huggingface.co/datasets
 - [Sidekick](https://github.com/ai-sidekick/sidekick)
 - [LangChain](https://github.com/hwchase17/langchain)
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 
 ## Tutorials about LLM
