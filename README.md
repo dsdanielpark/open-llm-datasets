@@ -16,9 +16,6 @@ Repository for organizing datasets used in Open LLM.
 <br>
 
 # Table of Contents
-- [Open-LLM-datasets](#open-llm-datasets)
-- [Overview](#overview)
-- [Table of Contents](#table-of-contents)
 - [Datasets](#datasets)
   - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
