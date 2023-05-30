@@ -7,19 +7,16 @@ https://huggingface.co/datasets
 
 <br>
 
-# References
-[1]https://github.com/KennethanCeyer/awesome-llm <br>
-[2]https://github.com/Hannibal046/Awesome-LLM <br>
-[3]https://github.com/Zjh-819/LLMDataHub <br>
-[4]https://huggingface.co/datasets <br>
-
-
 <br>
 
-# Contents
+# Table of Contents
 - [Open-LLM-datasets](#open-llm-datasets)
-- [References](#references)
-- [Contents](#contents)
+- [Table of Contents](#table-of-contents)
+  - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
+  - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
+- [Datasets](#datasets)
+  - [Domain-specific datasets and Private datasets](#domain-specific-datasets-and-private-datasets)
+  - [Potential Overlap](#potential-overlap)
 - [Papers](#papers)
   - [Pre-trained LLM](#pre-trained-llm)
   - [Instruction finetuned LLM](#instruction-finetuned-llm)
@@ -32,11 +29,8 @@ https://huggingface.co/datasets
   - [Opinions about LLM](#opinions-about-llm)
   - [Other Awesome Lists](#other-awesome-lists)
   - [Other Useful Resources](#other-useful-resources)
-  - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
-  - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
-  - [Domain-specific Datasets and Private dataset](#domain-specific-datasets-and-private-dataset)
-  - [Potential Overlap](#potential-overlap)
   - [Contribute](#contribute)
+- [References](#references)
 
 
 ## General Open Access Datasets for Alignment
@@ -383,3 +377,12 @@ https://huggingface.co/datasets
 
 ## Contribute
 Anyone can add new links and organize them in a more visually appealing manner. This repository allows contributions of any kind.
+
+
+
+
+# References
+[1]https://github.com/KennethanCeyer/awesome-llm <br>
+[2]https://github.com/Hannibal046/Awesome-LLM <br>
+[3]https://github.com/Zjh-819/LLMDataHub <br>
+[4]https://huggingface.co/datasets <br>
