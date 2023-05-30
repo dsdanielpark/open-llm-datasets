@@ -2,8 +2,7 @@
 
 
 # Open-LLM-datasets
-Repository for organizing datasets used in Open LLM. To download or access information about the most commonly used datasets, please refer to Hugging Face.
-https://huggingface.co/datasets
+Repository for organizing datasets used in Open LLM. 
 
 <br>
 
@@ -12,10 +11,10 @@ https://huggingface.co/datasets
 # Table of Contents
 - [Open-LLM-datasets](#open-llm-datasets)
 - [Table of Contents](#table-of-contents)
+- [Overview](#overview)
 - [Datasets](#datasets)
   - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
-- [Datasets](#datasets-1)
   - [Domain-specific datasets and Private datasets](#domain-specific-datasets-and-private-datasets)
   - [Potential Overlap](#potential-overlap)
 - [Papers](#papers)
@@ -24,6 +23,8 @@ https://huggingface.co/datasets
   - [Aligned LLM](#aligned-llm)
 - [Open LLM](#open-llm)
   - [LLM Training Frameworks](#llm-training-frameworks)
+  - [LLM Optimization](#llm-optimization)
+    - [State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods](#state-of-the-art-parameter-efficient-fine-tuning-peft-methods)
   - [Tools for deploying LLM](#tools-for-deploying-llm)
   - [Tutorials about LLM](#tutorials-about-llm)
   - [Courses about LLM](#courses-about-llm)
@@ -35,6 +36,15 @@ https://huggingface.co/datasets
 
 
 <br>
+
+# Overview
+![](./assets/totalplot.png)
+- Visuallization of Open LLM Leader Board: https://github.com/dsdanielpark/Open-LLM-Leaderboard-Report
+- Open LLM Leader Board: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+- To download or access information about the most commonly used datasets: https://huggingface.co/datasets
+
+
+
 
 # Datasets
 
@@ -96,7 +106,6 @@ https://huggingface.co/datasets
 - [CLUECorpus](https://github.com/CLUEbenchmark/CLUE)
 
 
-# Datasets
 
 ## Domain-specific datasets and Private datasets
 
@@ -288,6 +297,18 @@ https://huggingface.co/datasets
 - [Mesh TensorFlow `(mtf)`](https://github.com/tensorflow/mesh)
 - [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html)
 
+## LLM Optimization
+### State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods
+- **github:** https://github.com/huggingface/peft
+- **abstract:** Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters. Fine-tuning large-scale PLMs is often prohibitively costly. In this regard, PEFT methods only fine-tune a small number of (extra) model parameters, thereby greatly decreasing the computational and storage costs. Recent State-of-the-Art PEFT techniques achieve performance comparable to that of full fine-tuning. Seamlessly integrated with 🤗 Accelerate for large scale models leveraging DeepSpeed and Big Model Inference.
+- **Supported methods:**
+Supported methods:
+
+1. LoRA: [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685)
+2. Prefix Tuning: [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353/), [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/pdf/2110.07602.pdf)
+3. P-Tuning: [GPT Understands, Too](https://arxiv.org/abs/2103.10385)
+4. Prompt Tuning: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+5. AdaLoRA: [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.10512)  
 
 
 
