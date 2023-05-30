@@ -6,14 +6,6 @@ Repository for organizing datasets used in Open LLM.
 
 <br>
 
-# Overview
-![](./assets/totalplot.png)
-- Visuallization of Open LLM Leader Board: https://github.com/dsdanielpark/Open-LLM-Leaderboard-Report
-- Open LLM Leader Board: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
-- To download or access information about the most commonly used datasets: https://huggingface.co/datasets
-
-
-<br>
 
 # Table of Contents
 - [Datasets](#datasets)
@@ -44,6 +36,7 @@ Repository for organizing datasets used in Open LLM.
 
 
 # Datasets
+To download or access information about the most commonly used datasets: https://huggingface.co/datasets
 
 ## General Open Access Datasets for Alignment
 
@@ -227,6 +220,13 @@ Repository for organizing datasets used in Open LLM.
 <br><br>
 
 # Open LLM
+
+## LLM Leader Board
+![](./assets/totalplot.png)
+- Visuallization of Open LLM Leader Board: https://github.com/dsdanielpark/Open-LLM-Leaderboard-Report
+- Open LLM Leader Board: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
+<br>
 
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model.
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) - A model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
