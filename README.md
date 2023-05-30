@@ -6,12 +6,19 @@ Repository for organizing datasets used in Open LLM.
 
 <br>
 
+# Overview
+![](./assets/totalplot.png)
+- Visuallization of Open LLM Leader Board: https://github.com/dsdanielpark/Open-LLM-Leaderboard-Report
+- Open LLM Leader Board: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+- To download or access information about the most commonly used datasets: https://huggingface.co/datasets
+
+
 <br>
 
 # Table of Contents
 - [Open-LLM-datasets](#open-llm-datasets)
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
+- [Table of Contents](#table-of-contents)
 - [Datasets](#datasets)
   - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
@@ -36,13 +43,6 @@ Repository for organizing datasets used in Open LLM.
 
 
 <br>
-
-# Overview
-![](./assets/totalplot.png)
-- Visuallization of Open LLM Leader Board: https://github.com/dsdanielpark/Open-LLM-Leaderboard-Report
-- Open LLM Leader Board: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
-- To download or access information about the most commonly used datasets: https://huggingface.co/datasets
-
 
 
 
