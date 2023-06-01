@@ -79,7 +79,7 @@ To download or access information about the most commonly used datasets: https:/
 - [OpenAI Summarization Comparison](https://huggingface.co/datasets/openai/summarize_from_feedback)
 - [Natural Instruction](https://instructions.apps.allenai.org/) [GitHub&Download](https://github.com/allenai/natural-instructions)
 - [hh-rlhf](https://github.com/anthropics/hh-rlhf) [on Huggingface](https://huggingface.co/datasets/Anthropic/hh-rlhf)
-
+- [OpenAI PRM800k](https://github.com/openai/prm800k) 
 
 
 ## Open Datasets for Pretraining
@@ -173,6 +173,7 @@ To download or access information about the most commonly used datasets: https:/
 - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047)
 - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+- [Let’s Verify Step by Step - Open AI](https://cdn.openai.com/improving-mathematical-reasoning-with-process-supervision/Lets_Verify_Step_by_Step.pdf)
 
 
 ## Pre-trained LLM
@@ -339,6 +340,7 @@ Supported methods:
 - [Stephen Wolfram] What Is ChatGPT Doing ... and Why Does It Work? [Link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [Jingfeng Yang] Why did all of the public reproduction of GPT-3 fail? [Link](https://jingfengyang.github.io/gpt)
 - [Hung-yi Lee] ChatGPT (possibly) How It Was Created - The Socialization Process of GPT [Video](https://www.youtube.com/watch?v=e0aKI2GGZNg)
+- [Open AI Improving mathematical reasoning with process supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
 
 
 ## Courses about LLM
