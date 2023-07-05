@@ -109,7 +109,7 @@ To download or access information about the most commonly used datasets: https:/
 - [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca)
 - WebText(Reddit links) - Private Dataset
 - MassiveText - Private Dataset
-
+- [Korean-Open-LLM-Datasets](https://github.com/dsdanielpark/Korean-Open-LLM-Datasets)
 
 
 ## Potential Overlap
