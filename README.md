@@ -400,10 +400,8 @@ Supported methods:
 
 <br>
 
-## Contribute
-Anyone can add new links and organize them in a more visually appealing manner. This repository allows contributions of any kind.
-
-
+## How to Contribute
+Since this repository focuses on collecting various datasets for LLM, you are welcome to contribute and add datasets in any form you prefer.
 
 
 # References
